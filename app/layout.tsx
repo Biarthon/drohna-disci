@@ -12,20 +12,20 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Drohna Disci | Luxury Fashion Brand",
   description:
-    "Fashion that teaches. Creativity that endures. A luxury South Sudanese fashion brand by designer Mathiang.",
-  generator: "v0.app",
+    " A luxury South Sudanese fashion brand by designer Mathiang.",
+  generator: "Mathiang Mathiang",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/logo.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/logo.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/logo.png",
         type: "image/svg+xml",
       },
     ],
