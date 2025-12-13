@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   generator: "Mathiang Mathiang",
   icons: {
     icon: [
-      {
+     /* {
         url: "/logo.png",
         media: "(prefers-color-scheme: light)",
       },
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       {
         url: "/logo.png",
         type: "image/svg+xml",
-      },
+      },*/
     ],
     apple: "/apple-icon.png",
   },
