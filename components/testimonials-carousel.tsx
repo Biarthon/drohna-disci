@@ -15,20 +15,20 @@ const testimonials: Testimonial[] = [
   {
     id: 1,
     quote:
-      "Drohna Disci represents the courage to create where others doubted. It's fashion with purpose, rooted in authentic vision.",
-    name: "Amara Okonkwo",
+      "Collaborating with Drohna Disci allowed me to truly advocate for women's empowerment, especially while wearing my outstanding outfit made of tinfoil and plastic spoons! I felt so confident, and it paid off—I was crowned First Runner Up! Drohna's commitment to perfection is unmatched; he even showed up to personally support me backstage. Truly, Drohna Disci is at the pinnacle of perfection.",
+    name: "Ayat Akol Maror",
     role: "Fashion Model",
     image: "/fashion-model-portrait.png",
   },
   {
     id: 2,
     quote:
-      "Mathiang's work shows us that creativity thrives when we choose to stay, to build, to dream at home. It's revolutionary.",
-    name: "Zara Al-Rashid",
-    role: "Fashion Designer",
-    image: "/designer-portrait.png",
+      "Working with Mathiang felt different from the start. He didn’t just design an outfit, he listened to what I wanted to say. My creativity piece was about recycling and responsibility, and he helped turn that message into something powerful. Winning Miss Creativity changed my life, and Drohna Disci played a huge role in that journey. Even now, as I work professionally abroad, I carry that experience with me.",
+    name: "Arop Akol",
+    role: "Fashion Model",
+    image: "https://mediaslide-europe.storage.googleapis.com/traffic/pictures/4699/7170/large-1679308776-b38ab70f371d4db66d1621ae031b40dd.jpg",
   },
-  {
+  /*{
     id: 3,
     quote:
       "The elegance in every piece speaks volumes. This is fashion that teaches, that transforms, that leaves a legacy.",
@@ -43,7 +43,7 @@ const testimonials: Testimonial[] = [
     name: "Sade Abubakar",
     role: "Fashion Journalist",
     image: "/fashion-journalist-portrait.jpg",
-  },
+  },*/
 ]
 
 export function TestimonialsCarousel() {
