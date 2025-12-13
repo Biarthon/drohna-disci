@@ -9,7 +9,7 @@ import "./globals.css"
 const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
-export const metadata: Metadata = {
+/*export const metadata: Metadata = {
   title: "Drohna Disci | Luxury Fashion Brand",
   description:
     " A luxury South Sudanese fashion brand by designer Mathiang.",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     ],
     apple: "/apple-icon.png",
   },
-}
+}*/
 
 export default function RootLayout({
   children,
